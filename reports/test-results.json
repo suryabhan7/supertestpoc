@@ -1,0 +1,252 @@
+{
+  "stats": {
+    "suites": 6,
+    "tests": 13,
+    "passes": 13,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-04-22T14:06:32.462Z",
+    "end": "2022-04-22T14:06:47.993Z",
+    "duration": 15531
+  },
+  "tests": [
+    {
+      "title": "should successfully pass the test for delete request",
+      "fullTitle": "Delete API tests using supertest should successfully pass the test for delete request",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/deleteTest.spec.js",
+      "duration": 893,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api with query param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api with query param",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/getTest.spec.js",
+      "duration": 183,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api without query param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api without query param",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/getTest.spec.js",
+      "duration": 135,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api with path param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api with path param",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/getTest.spec.js",
+      "duration": 1451,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for patch request",
+      "fullTitle": "Patch API tests using supertest should successfully pass the test for patch request",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/patchTest.spec.js",
+      "duration": 985,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Post API tests using supertest should successfully pass the test for post api",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/postTest.spec.js",
+      "duration": 1022,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Put API tests using supertest should successfully pass the test for post api",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/putTest.spec.js",
+      "duration": 819,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully create a booking",
+      "fullTitle": "Restful Booker API Tests should successfully create a booking",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1367,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should fetch the booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should fetch the booking of the provided booking id",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1432,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should update the booking of the provided booking id using Put request",
+      "fullTitle": "Restful Booker API Tests should update the booking of the provided booking id using Put request",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1227,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should update the firstname and lastname of booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should update the firstname and lastname of booking of the provided booking id",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1227,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should Delete the booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should Delete the booking of the provided booking id",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1638,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should show 404 status code for deleted booking id",
+      "fullTitle": "Restful Booker API Tests should show 404 status code for deleted booking id",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1638,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "should successfully pass the test for delete request",
+      "fullTitle": "Delete API tests using supertest should successfully pass the test for delete request",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/deleteTest.spec.js",
+      "duration": 893,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api with query param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api with query param",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/getTest.spec.js",
+      "duration": 183,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api without query param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api without query param",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/getTest.spec.js",
+      "duration": 135,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api with path param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api with path param",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/getTest.spec.js",
+      "duration": 1451,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for patch request",
+      "fullTitle": "Patch API tests using supertest should successfully pass the test for patch request",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/patchTest.spec.js",
+      "duration": 985,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Post API tests using supertest should successfully pass the test for post api",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/postTest.spec.js",
+      "duration": 1022,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Put API tests using supertest should successfully pass the test for post api",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/putTest.spec.js",
+      "duration": 819,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully create a booking",
+      "fullTitle": "Restful Booker API Tests should successfully create a booking",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1367,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should fetch the booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should fetch the booking of the provided booking id",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1432,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should update the booking of the provided booking id using Put request",
+      "fullTitle": "Restful Booker API Tests should update the booking of the provided booking id using Put request",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1227,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should update the firstname and lastname of booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should update the firstname and lastname of booking of the provided booking id",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1227,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should Delete the booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should Delete the booking of the provided booking id",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1638,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should show 404 status code for deleted booking id",
+      "fullTitle": "Restful Booker API Tests should show 404 status code for deleted booking id",
+      "file": "/home/suryabhan/Desktop/SuperTest_poc/test/restfulbookerTest.spec.js",
+      "duration": 1638,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ]
+}
